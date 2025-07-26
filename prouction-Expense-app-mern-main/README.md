@@ -19,17 +19,27 @@
 
  1. Clone the Repo
     git clone https://github.com/Nandithadn/_Expense_Tracker_.git
+    
     cd prouction-Expense-app-mern-main
-2. Setup Backend
+    
+3. Setup Backend
+   
     cd backend
+   
     npm install
+   
 Create a .env file in /backend:
+
     MONGO_URI=your_mongodb_uri
     JWT_SECRET=your_secret_key
     PORT=5000
+    
 Then run:
+
     npm run dev
-3. Setup Frontend
+    
+5. Setup Frontend
+
     cd ../client
     npm install
     npm start
