@@ -7,10 +7,15 @@
 ## 🚀 Features
 
 - ✅ Add, delete, and view expenses
+  
 - 🔍 Filter by category or description
+  
 - 📊 Category-wise and total expense summaries
+  
 - 🌗 Light/Dark theme toggle
+  
 - 🔐 User authentication (Login & Signup using JWT)
+  
 - 🧠 Persistent data via MongoDB
 
 
@@ -45,16 +50,25 @@ Then run:
     npm start
    
 **********✅ Completed Functionalities**********
+
 *Add/Delete Expense
+
 *JWT-based Authentication
+
 *Filters by category & description
+
 *Expense summary display
+
 *Responsive UI with theme switch
 
 ********🌱 Upcoming Features******
+
 🔄 Monthly/weekly statistics
+
 📁 Export expenses to CSV/PDF
+
 🔔 Reminder notifications
+
 📱 Mobile responsive improvements
 
 👩‍💻 Developed By
