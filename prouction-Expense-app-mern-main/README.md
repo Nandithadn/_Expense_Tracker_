@@ -49,5 +49,3 @@ Then run:
 
 👩‍💻 Developed By
 Nanditha D N
-📧 nandithadn15@gmail.com
-🔗 LinkedIn
