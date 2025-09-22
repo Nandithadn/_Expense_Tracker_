@@ -61,19 +61,6 @@ Then run:
 
 *Responsive UI with theme switch
 
-********🌱 Upcoming Features******
-
-🔄 Monthly/weekly statistics
-
-📁 Export expenses to CSV/PDF
-
-🔔 Reminder notifications
-
-📱 Mobile responsive improvements
-
-
-
-
 
 
 
